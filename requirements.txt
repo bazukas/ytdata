@@ -1,0 +1,9 @@
+ipython
+jupyter
+pandas
+langdetect
+numpy
+scipy
+scikit-learn
+matplotlib
+tensorflow
